@@ -1,0 +1,1 @@
+ngrok http --subdomain=nickreact 3000
